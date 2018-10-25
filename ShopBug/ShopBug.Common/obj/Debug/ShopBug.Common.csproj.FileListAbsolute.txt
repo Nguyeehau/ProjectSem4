@@ -1,0 +1,6 @@
+E:\User\WebBug\ShopBug\ShopBug.Common\bin\Debug\ShopBug.Common.dll
+E:\User\WebBug\ShopBug\ShopBug.Common\bin\Debug\ShopBug.Common.pdb
+E:\User\WebBug\ShopBug\ShopBug.Common\obj\Debug\ShopBug.Common.csproj.CoreCompileInputs.cache
+E:\User\WebBug\ShopBug\ShopBug.Common\obj\Debug\ShopBug.Common.dll
+E:\User\WebBug\ShopBug\ShopBug.Common\obj\Debug\ShopBug.Common.pdb
+E:\User\WebBug\ShopBug\ShopBug.Common\obj\Debug\ShopBug.Common.csprojAssemblyReference.cache

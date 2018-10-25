@@ -1,0 +1,16 @@
+E:\User\WebBug\ShopBug\ShopBug.Model\bin\Debug\ShopBug.Model.dll.config
+E:\User\WebBug\ShopBug\ShopBug.Model\bin\Debug\ShopBug.Model.dll
+E:\User\WebBug\ShopBug\ShopBug.Model\bin\Debug\ShopBug.Model.pdb
+E:\User\WebBug\ShopBug\ShopBug.Model\bin\Debug\EntityFramework.dll
+E:\User\WebBug\ShopBug\ShopBug.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\User\WebBug\ShopBug\ShopBug.Model\bin\Debug\EntityFramework.xml
+E:\User\WebBug\ShopBug\ShopBug.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\User\WebBug\ShopBug\ShopBug.Model\obj\Debug\ShopBug.Model.csproj.CoreCompileInputs.cache
+E:\User\WebBug\ShopBug\ShopBug.Model\obj\Debug\ShopBug.Model.csproj.CopyComplete
+E:\User\WebBug\ShopBug\ShopBug.Model\obj\Debug\ShopBug.Model.dll
+E:\User\WebBug\ShopBug\ShopBug.Model\obj\Debug\ShopBug.Model.pdb
+E:\User\WebBug\ShopBug\ShopBug.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\User\WebBug\ShopBug\ShopBug.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\User\WebBug\ShopBug\ShopBug.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\User\WebBug\ShopBug\ShopBug.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\User\WebBug\ShopBug\ShopBug.Model\obj\Debug\ShopBug.Model.csprojAssemblyReference.cache
