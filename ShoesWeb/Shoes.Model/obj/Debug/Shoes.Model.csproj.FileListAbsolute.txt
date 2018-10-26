@@ -1,0 +1,6 @@
+E:\Do an\ShoesWeb\Shoes.Model\bin\Debug\Shoes.Model.dll
+E:\Do an\ShoesWeb\Shoes.Model\bin\Debug\Shoes.Model.pdb
+E:\Do an\ShoesWeb\Shoes.Model\obj\Debug\Shoes.Model.csprojAssemblyReference.cache
+E:\Do an\ShoesWeb\Shoes.Model\obj\Debug\Shoes.Model.csproj.CoreCompileInputs.cache
+E:\Do an\ShoesWeb\Shoes.Model\obj\Debug\Shoes.Model.dll
+E:\Do an\ShoesWeb\Shoes.Model\obj\Debug\Shoes.Model.pdb
